@@ -1,4 +1,4 @@
 # movie-download-website
 
-this website if live on google  https://moviesarea.online
+this website is live on google https://moviesarea.online
 in this website download movies with few servers.
