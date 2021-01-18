@@ -1,0 +1,1 @@
+ErrorDocument 404 http://localhost/projects/new_project/404.php
